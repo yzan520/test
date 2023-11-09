@@ -1,5 +1,4 @@
-/home/zps/test/c++/Qt_test/cmake-build-debug/CMakeFiles/Qt_test.dir
-/home/zps/test/c++/Qt_test/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/zps/test/c++/Qt_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/zps/test/c++/Qt_test/cmake-build-debug/CMakeFiles/Qt_test_autogen_timestamp_deps.dir
-/home/zps/test/c++/Qt_test/cmake-build-debug/CMakeFiles/Qt_test_autogen.dir
+/home/zps/tmp/test/c++/Qt_test/cmake-build-debug/CMakeFiles/Qt_test.dir
+/home/zps/tmp/test/c++/Qt_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zps/tmp/test/c++/Qt_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zps/tmp/test/c++/Qt_test/cmake-build-debug/CMakeFiles/Qt_test_autogen.dir

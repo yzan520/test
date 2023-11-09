@@ -5,7 +5,7 @@ using namespace std;
 using namespace cv;
 
 int main() {
-    cv::Mat a = cv::imread("/home/zps/test/c++/opencv_test/apple.jpg");
+    cv::Mat a = cv::imread("/home/zps/tmp/test/c++/opencv_test/apple.jpg");
     if(a.empty())
     {
         printf("failed to load image!");

@@ -1,0 +1,4 @@
+/home/zps/tmp/test/c++/Qt_test/build/CMakeFiles/Qt_test.dir
+/home/zps/tmp/test/c++/Qt_test/build/CMakeFiles/edit_cache.dir
+/home/zps/tmp/test/c++/Qt_test/build/CMakeFiles/rebuild_cache.dir
+/home/zps/tmp/test/c++/Qt_test/build/CMakeFiles/Qt_test_autogen.dir
