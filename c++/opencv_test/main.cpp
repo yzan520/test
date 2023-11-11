@@ -6,12 +6,10 @@ using namespace cv;
 
 int main() {
     cv::Mat a = cv::imread("/home/zps/tmp/test/c++/opencv_test/apple.jpg");
-    if(a.empty())
-    {
+    if(a.empty()) {
         printf("failed to load image!");
     }
-    else
-    {
+    else {
         cv::imshow("test",a);
         cv::waitKey(0);
     }
