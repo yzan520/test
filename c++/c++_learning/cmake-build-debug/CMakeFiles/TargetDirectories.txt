@@ -1,3 +1,0 @@
-/home/zps/tmp/test/c++/c++_learning/cmake-build-debug/CMakeFiles/c___learning.dir
-/home/zps/tmp/test/c++/c++_learning/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/zps/tmp/test/c++/c++_learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
