@@ -3,7 +3,7 @@ import cv2
 # 捕获摄像头
 cap = cv2.VideoCapture(2)
 # 设置视频保存路径
-video_path = '/home/zps/test/python/videos/video15.avi'
+video_path = '/home/zps/tmp/test/python/videos/video2.avi'
 # 设置视频编码格式
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
 out = cv2.VideoWriter(video_path, fourcc, 30.0, (640, 480))
